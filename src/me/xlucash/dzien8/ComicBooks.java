@@ -28,7 +28,7 @@ public class ComicBooks {
         quality.put(BookCondition.BEZ_OKLADKI,price8);
 
         Comic[] comix = new Comic[3];
-        comix[0] = new Comic("Wspania􀃯y Spider-Man", "1A", BookCondition.BARDZO_DOBRY,12_000.00F);
+        comix[0] = new Comic("Wspanialy Spider-Man", "1A", BookCondition.BARDZO_DOBRY,12_000.00F);
         comix[0].setPrice((Float) quality.get(comix[0].condition));
         comix[1] = new Comic("Niesamowity Hulk", "181", BookCondition.PRAWIE_NOWY, 680.00F);
         comix[1].setPrice( (Float) quality.get(comix[1].condition) );
@@ -36,7 +36,7 @@ public class ComicBooks {
         comix[2].setPrice( (Float) quality.get(comix[2].condition) );
         for(int i = 0;i<comix.length;i++)
         {
-            System.out.println("Tytu􀃯: " + comix[i].title);
+            System.out.println("Tytul: " + comix[i].title);
             System.out.println("Numer: " + comix[i].issueNumber);
             System.out.println("Stan: " + comix[i].condition);
             System.out.println("Cena: " + comix[i].price + " zl\n");

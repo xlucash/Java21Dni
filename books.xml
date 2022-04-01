@@ -1,0 +1,73 @@
+<Library>
+	<Book>
+		<Author>Django Wexler</Author>
+		<Title>The Thousand Names</Title>
+		<PubDate edition="Paperback">2014</PubDate>
+		<Publisher>Roc</Publisher>
+		<Subject>Fantasy</Subject>
+		<Review>wexler-thousand-names.html</Review>
+	</Book>
+	<Book>
+		<Author>Heather Child</Author>
+		<Title>Everything About You</Title>
+		<PubDate edition="Trade">2018</PubDate>
+		<Publisher>Orbit</Publisher>
+		<Subject>Science Fiction</Subject>
+	</Book>
+	<Book>
+		<Author>Elizabeth Bear</Author>
+		<Title>Blood and Iron</Title>
+		<PubDate edition="Paperback">2008</PubDate>
+		<Publisher>Roc</Publisher>
+		<Subject>Fantasy</Subject>
+	</Book>
+	<Book>
+		<Author>Graeme Simsion</Author>
+		<Title>The Rosie Project</Title>
+		<PubDate edition="Trade">2013</PubDate>
+		<Publisher>Simon and Schuster</Publisher>
+		<Subject>Contemporary</Subject>
+	</Book>
+	<Book>
+		<Author>Sinclair Lewis</Author>
+		<Title>Elmer Gantry</Title>
+		<PubDate edition="Hardcover">1927</PubDate>
+		<Publisher>Harcourt, Brace</Publisher>
+		<Subject>Hardcover</Subject>
+	</Book>
+	<Book>
+		<Author>Naomi Novik</Author>
+		<Title>His Majesty's Dragon</Title>
+		<PubDate edition="Paperback">2006</PubDate>
+		<Publisher>Del Rey</Publisher>
+		<Subject>Fantasy</Subject>
+	</Book>
+	<Book>
+		<Author>K.B. Wagers</Author>
+		<Title>Behind the Throne</Title>
+		<PubDate edition="Ebook">2016</PubDate>
+		<Publisher>Orbit</Publisher>
+		<Subject>Science Fiction</Subject>
+	</Book>
+	<Book>
+		<Author>John Scalzi</Author>
+		<Title>Old Man's War</Title>
+		<PubDate edition="Paperback">2005</PubDate>
+		<Publisher>Tor</Publisher>
+		<Subject>Science Fiction</Subject>
+	</Book>
+	<Book>
+		<Author>Aaron Allston</Author>
+		<Title>Star Wars: Rebel Dream</Title>
+		<PubDate edition="Paperback">2002</PubDate>
+		<Publisher>Del Rey</Publisher>
+		<Subject>Science Fiction</Subject>
+	</Book>
+	<Book>
+		<Author>The Name of the Wind</Author>
+		<Title>Patrick Rothfuss</Title>
+		<PubDate edition="Paperback">2007</PubDate>
+		<Publisher>DAW</Publisher>
+		<Subject>Fantasy</Subject>
+	</Book>
+</Library>
