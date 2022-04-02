@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="hello_world">Trafili, popili, fart</string>
+    <string name="action_settings">Ustawienia</string>
+</resources>

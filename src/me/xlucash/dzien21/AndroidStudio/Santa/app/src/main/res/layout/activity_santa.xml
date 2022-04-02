@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SantaActivity">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:background="@drawable/northpole"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="2dp"
+        tools:ignore="MissingConstraints">
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="imageButton1"
+            android:onClick="processClicks"
+            android:scaleType="center"
+            app:srcCompat="@drawable/phone"
+            tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="imageButton2"
+            android:onClick="processClicks"
+            android:scaleType="center"
+            app:srcCompat="@drawable/browser"
+            tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="imageButton3"
+            android:onClick="processClicks"
+            android:scaleType="center"
+            app:srcCompat="@drawable/maps"
+            tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
