@@ -1,5 +1,8 @@
+
 # Java21Dni
 Projects made on the basis of materials from the book "Teach Yourself Java in 21 Days (7th Edition)".
+
+<img src="https://i.imgur.com/B48s6Ph.png"/>
 
 ***
 __IDE__: IntelliJ, Android Studio
