@@ -1,9 +1,12 @@
 
 # Java21Dni
-Projects made on the basis of materials from the book "Teach Yourself Java in 21 Days (7th Edition)".
+## About project
+Programs made on the basis of materials from the book "Teach Yourself Java in 21 Days (7th Edition)".
+
+Thanks to the material in this book, you will learn the basics of the most important aspects of Java programming.
 
 <p align="center">
-<img src="https://i.imgur.com/B48s6Ph.png"/>
+<img src="https://i.imgur.com/B48s6Ph.png" height=300px width=250px/>
 </p>
 
 ***
@@ -37,3 +40,9 @@ __Language__: Java
   * [Day 19](https://github.com/xlucash/Java21Dni/tree/master/src/me/xlucash/dzien19) - Reading and Writing RSS Feeds
   * [Day 20](https://github.com/xlucash/Java21Dni/tree/master/src/me/xlucash/dzien20) - XML Web Services
   * [Day 21](https://github.com/xlucash/Java21Dni/tree/master/src/me/xlucash/dzien21) - Writing Android Apps for Java
+
+## More info about the book
+- Official website - [Rogers Cadenhead - Java in 21 days](https://workbench.cadenhead.org/go/java21days/)
+
+## Contact
+Created by [lukasz.pisarczyk02@gmail.com](mailto:lukasz.pisarczyk02@gmail.com) - feel free to contact me!
