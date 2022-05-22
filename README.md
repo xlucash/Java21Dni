@@ -10,6 +10,7 @@ Thanks to the material in this book, you will learn the basics of the most impor
 </p>
 
 ***
+## Technology
 __IDE__: IntelliJ, Android Studio
 
 __Language__: Java
